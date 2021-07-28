@@ -1,0 +1,4 @@
+bs4==4.9.3
+BeautifulSoup==2.2.1
+requests==2.26.0
+pprintpp==0.4.0
